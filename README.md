@@ -29,4 +29,5 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Traffic Evaluation and Logging
 
 Observations
-"C:\Users\gommy\OneDrive\Pictures\Screenshots\Screenshot 2026-06-26 154519.png"
+
+<img width="1917" height="1197" alt="Screenshot 2026-06-26 154519" src="https://github.com/user-attachments/assets/b0804b0d-3df9-42ee-a209-1c355d192bc0" />
