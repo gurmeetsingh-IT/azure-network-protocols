@@ -27,3 +27,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Associate the NSG
 - Define Security Rules to Inspect Traffic
 - Traffic Evaluation and Logging
+
+Observations
+"C:\Users\gommy\OneDrive\Pictures\Screenshots\Screenshot 2026-06-26 154519.png"
