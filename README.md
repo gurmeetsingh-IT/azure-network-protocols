@@ -28,6 +28,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Define Security Rules to Inspect Traffic
 - Traffic Evaluation and Logging
 
-Observations
+<h1>Observations<h1>
 
 <img width="1917" height="1197" alt="Screenshot 2026-06-26 154519" src="https://github.com/user-attachments/assets/b0804b0d-3df9-42ee-a209-1c355d192bc0" />
