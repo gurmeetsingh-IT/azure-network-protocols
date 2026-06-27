@@ -60,6 +60,8 @@ Remote Access & Wireshark Setup
 
 <p>
 <img width="1918" height="1152" alt="image" src="https://github.com/user-attachments/assets/679d8a36-b51b-4a93-b616-98827f6d8d40" />
+<img width="1920" height="1143" alt="image" src="https://github.com/user-attachments/assets/87386044-fa3d-461f-a04e-274e6da0ebe7" />
+
 </p>
 <p>
 Network Traffic Analysis (ICMP Testing)
@@ -70,3 +72,26 @@ Network Traffic Analysis (ICMP Testing)
 - Reviewed the results to verify the connection was working and identify any issues.
 </p>
 <br />
+
+</p>
+<img width="1912" height="1092" alt="image" src="https://github.com/user-attachments/assets/a7a7e6f7-ad18-45c0-b961-abe9dc58de58" />
+</p>
+<p>
+<p>
+<img width="1920" height="1152" alt="image" src="https://github.com/user-attachments/assets/ef2fe992-d973-4824-a367-90160de634d6" />
+</p>
+<p>
+<p>
+<img width="1917" height="1152" alt="image" src="https://github.com/user-attachments/assets/a3d7a3f2-893d-4a8b-8886-b220b1cefa2f" />
+</p>
+<p>
+Network Security Group (NSG) Testing & Traffic Conrol
+
+- Tested the connection between two virtual computers to make sure they could communicate
+- Changed security settings to temporarily block communication between the computers (As you can see from the second picture it timed out)
+- Observed how the blocked connection affected communication
+- Restored the security settings to allow the computers to ommunicate again
+- Confirmed the connection was working properly after the changes
+- Gained hands-on experience with computer security settings and troubleshooting network connections
+
+
