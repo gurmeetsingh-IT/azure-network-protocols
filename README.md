@@ -42,6 +42,20 @@ Cloud Infrastructure Setup (Microsoft Azure)
 - Created secure login credentials for both cloud computers.
 - Connected both cloud computers to the same private network so they could communicate with each other.
 - Gained hands-on experience with cloud computing, virtual machines, networking, and resource management using Microsoft Azure.
+</p>
+<br />
 
+<p>
   <img width="1913" height="1067" alt="Screenshot 2026-06-26 165216" src="https://github.com/user-attachments/assets/a4eec315-3cbb-4ebe-a7e3-1d13218c68b9" />
+</p>
+<p>
+Remote Access & Wireshark Setup
 
+- Installed Microsoft Remote Desktop on Windows 11 to enable secure remote access to a Windows 10 virtual machine
+- Accessed and used a Windows computer remotely to complete tasks and practice
+- Installed Wireshark to capture and analyze network traffic
+- Observed how computers send and receive information to better understand how devices communicate.
+</p>
+<br />
+
+<p>
