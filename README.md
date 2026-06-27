@@ -19,7 +19,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Ubuntu Server 24.04
 
 <h2>High-Level Steps</h2>
 
@@ -59,3 +59,14 @@ Remote Access & Wireshark Setup
 <br />
 
 <p>
+<img width="1918" height="1152" alt="image" src="https://github.com/user-attachments/assets/679d8a36-b51b-4a93-b616-98827f6d8d40" />
+</p>
+<p>
+Network Traffic Analysis (ICMP Testing)
+
+- Monitored network activity while computers communicated with each other.
+- Located the network address of another computer to test the connection.
+- Tested communication between two virtual computers to confirm they could connect successfully.
+- Reviewed the results to verify the connection was working and identify any issues.
+</p>
+<br />
