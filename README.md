@@ -36,9 +36,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 Cloud Infrastructure Setup (Microsoft Azure)
 
-Created a cloud workspace to organize and manage project resources
-Set up a Windows 10 computer in the cloud
-Set up an Ubuntu (Linux) computer in the same cloud environment
-Created secure login credentials for both cloud computers.
-Connected both cloud computers to the same private network so they could communicate with each other.
-Gained hands-on experience with cloud computing, virtual machines, networking, and resource management using Microsoft Azure.
+- Created a cloud workspace to organize and manage project resources
+- Set up a Windows 10 computer in the cloud
+- Set up an Ubuntu (Linux) computer in the same cloud environment
+- Created secure login credentials for both cloud computers.
+- Connected both cloud computers to the same private network so they could communicate with each other.
+- Gained hands-on experience with cloud computing, virtual machines, networking, and resource management using Microsoft Azure.
+
+  <img width="1913" height="1067" alt="Screenshot 2026-06-26 165216" src="https://github.com/user-attachments/assets/a4eec315-3cbb-4ebe-a7e3-1d13218c68b9" />
+
