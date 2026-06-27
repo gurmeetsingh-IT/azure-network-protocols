@@ -12,14 +12,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Various Command-Line Tools
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 24.04
+- Ubuntu Server 22.04
 
 <h2>High-Level Steps</h2>
 
