@@ -90,8 +90,36 @@ Network Security Group (NSG) Testing & Traffic Conrol
 - Tested the connection between two virtual computers to make sure they could communicate
 - Changed security settings to temporarily block communication between the computers (As you can see from the second picture it timed out)
 - Observed how the blocked connection affected communication
-- Restored the security settings to allow the computers to ommunicate again
+- Restored the security settings by deleting previous setting to allow the computers to ommunicate again
 - Confirmed the connection was working properly after the changes
 - Gained hands-on experience with computer security settings and troubleshooting network connections
+</p>
+<br />
 
+<p>
+<img width="1920" height="1157" alt="image" src="https://github.com/user-attachments/assets/d176af37-9c5d-49f6-b7cc-8ab7eccd8a9a" />
+</p>
+<p>
+SSH Traffic Analysis & Secure Remote Access
+
+- Captured and analysed SSH traffic using Wireshark within a Windows 10 virtual machine
+- Applied protocol-specific filters to isolate SSH (Secure Shell) network activity
+- Connected securely to a Linux computer over a private network
+- Logged in and completed basic tasks on a remote Linux computer.
+- Monitored how secure information was exchanged during the connection.
+- Verified that the secure connection ended properly after signing out.
+</p>
+<br />
+
+<p>
+<img width="1920" height="1152" alt="image" src="https://github.com/user-attachments/assets/4f4ce575-cf09-483e-ba5d-786ca5d6b1e3" />
+</p>
+<p>
+DNS Traffic Analysis & nslookup Testing
+
+- Captured and analyzed DNS traffic using Wireshark within a Windows 10 virtual machine
+- Applied protocol filters to isolate DNS query and response traffic
+- Filtered network activity to focus on website name lookups ex. facebook.com
+- Verified that websites were matched with the correct network addresses.
+- Observed how computers locate and connect to websites in real time.
 
