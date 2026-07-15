@@ -33,7 +33,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - SSH Analysis
 - DHCP Analysis
 - DNS Analysis
-- RDP Analysis
 
 <h2>Actions and Observations</h2>
 
@@ -496,44 +495,3 @@ Observe the second set of DNS transactions.
 <img src="https://i.imgur.com/lEVmgj6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Wireshark for RDP Filtering:
-
-Open Wireshark with an active capture on your main network interface.
-Enter tcp.port == 3389 in the filter bar.
-Click the blue arrow or press Enter to apply the filter.
-Verify the filter appears green, indicating it's active.
-
-Observe Active RDP Traffic:
-
-The display will immediately fill with RDP packet data.
-These packets represent the ongoing Remote Desktop connection between your local computer and the Windows 10 VM.
-Note the high volume of traffic—RDP continuously streams screen updates and input data.
-
-Analyze RDP Protocol Characteristics:
-
-Examine the packet list to observe:
-
-Consistent flow of packets in both directions.
-Regular packet timing patterns.
-Varying packet sizes depending on screen activity.
-
-Select individual packets to see details:
-
-TCP headers showing source and destination ports (3389 for RDP).
-Encrypted payload data (RDP uses TLS encryption).
-Session information in the connection establishment packets.
-
-Generate Additional RDP Traffic:
-
-Move your mouse or type in the VM.
-Watch Wireshark display increased packet activity.
-Observe how changing windows or complex screen updates generate larger bursts of packets.
-
-Identify RDP Session Components:
-
-Connection establishment packets (beginning of the session).
-Continuous data exchange packets (during active use).
-Keepalive packets (during periods of inactivity).
-The RDP protocol efficiently compresses and encrypts all data.
-
-<br />
